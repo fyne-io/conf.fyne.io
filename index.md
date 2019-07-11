@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Fyne Conf 2019
 
-You can use the [editor on GitHub](https://github.com/fyne-io/conf.fyne.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are in the process of planning the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne).
+Shortly a vote for topics and a call for contribtions will be added and a date set.
+Please come back later to find more about the event and how to get tickets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Developers and Contributors
 
-### Markdown
+This event will be a chance to learn more about Fyne and how to use it as well as the background of how it is built and how you could contribute to future development.
+Novice or expert, coder or designer we will have something for everyone.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Location
 
-```markdown
-Syntax highlighted code block
+The plan is to make the event an online meeting. Live streams and chat rooms will allow anyone to attend from around the world.
+If there is a high level of interest we may also host a location or support local groups to gather and celebrate the event.
 
-# Header 1
-## Header 2
-### Header 3
+## Support or Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fyne-io/conf.fyne.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Looking to find out more or get help attending? The team can be contacted in the ways described on the [main website](https://fyne.io/#contact).
