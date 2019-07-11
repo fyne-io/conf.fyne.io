@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background-image: url(/assets/img/conference_bg.jpg);
+    background-size: cover;
+}
+
+header {
+    background-color: #151515;
+}
+
+header .container {
+    background-image: url(/assets/img/fyne.png);
+    background-size: auto 54pt;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
 section#downloads {
     display: none;
 }
