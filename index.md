@@ -2,7 +2,7 @@
 
 We are in the process of planning the world's first conference focused on the
 [Fyne toolkit](https://github.com/fyne-io/fyne). The event will be held
-around September to November 2019, if you want to be involved in the planning
+in November 2019, if you want to be involved in the planning
 then you can [vote on the date](https://doodle.com/poll/tx3v2imwiizz5fff)
 before we start calling for speakers.
 Please come back later to find more about the event and how to get tickets.
