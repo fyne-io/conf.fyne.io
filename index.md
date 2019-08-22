@@ -1,8 +1,9 @@
 ## Fyne Conf 2019
 
-We are in the process of planning the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne).
+Fyne Conf is the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne), it's community and the applications built around it.
 The event will be held on Friday 22nd November 2019.
-We will soon be opening a call for contribtions and share more details about the day.
+The call for contribtions is [now open](https://www.papercall.io/fyneconf),
+as we shape the event schedule we will post more information on this page.
 Please come back later to find more about the event and how to get tickets.
 
 ## For your apps and the future
