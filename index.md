@@ -18,7 +18,7 @@ anyone to attend from around the world.
 | Andy Williams | Stephen Houston | Steve O'Connor |
 |:---:|:---:|:---:|
 | [andydotxyz](https://twitter.com/andydotxyz) | [stephenmhouston](https://twitter.com/stephenmhouston) | [steveoc641](https://twitter.com/steveoc641) |
-| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg)) | ![](https://pbs.twimg.com/profile_images/911998357354168325/xnF4ZYT1_200x200.jpg) | ![](https://pbs.twimg.com/profile_images/1187898075039195136/mQJ-_k1G_400x400.jpg) |
+| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | ![](https://pbs.twimg.com/profile_images/911998357354168325/xnF4ZYT1_200x200.jpg) | ![](https://pbs.twimg.com/profile_images/1187898075039195136/mQJ-_k1G_400x400.jpg) |
 
 ## Schedule - Friday Nov 22 2019
 
