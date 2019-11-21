@@ -26,7 +26,7 @@ anyone to attend from around the world.
 |:---:|:---:|:---|:---|
 | 12:00 | 12:50 | Andy W | Welcome, Vision and project outline ([join](https://youtu.be/-oTjciec9OY)) |
 | 13:00 | 13:50 | Steve O'C | Fun and games with the Fyne toolkit (join above) |
-| 12:50 | 14:10 | | *Break* |
+| 13:50 | 14:10 | | *Break* |
 | 14:10 | 15:00 | Stephen H | Fyne desktop, current and future ([join](https://youtu.be/Xq23dgooheo)) |
 | 15:00 | 15:50 | Andy W | 1.2 release, roadmap and the future (join above) |
 | 16:00 | 16:30 | Fyne Team | Q&A with the Fyne team ([join](https://meet.google.com/zht-jbfm-jrz)) |
