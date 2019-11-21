@@ -24,12 +24,14 @@ anyone to attend from around the world.
 
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
-| 12:00 | 12:50 | Andy W | Welcome, Vision and project outline |
-| 13:00 | 13:50 | Steve O'C | Fun and games with the Fyne toolkit |
+| 12:00 | 12:50 | Andy W | Welcome, Vision and project outline ([join](https://youtu.be/-oTjciec9OY)) |
+| 13:00 | 13:50 | Steve O'C | Fun and games with the Fyne toolkit ([join](https://youtu.be/-oTjciec9OY)) |
 | 12:50 | 14:10 | | *Break* |
-| 14:10 | 15:00 | Stephen H | Fyne desktop, current and future |
-| 15:00 | 15:50 | Andy W | 1.2 release, roadmap and the future |
-| 16:00 | 16:30 | Fyne Team | Q&A with the Fyne team (Submit questions on [Twitter](https://twitter.com/fyne_io)) |
+| 14:10 | 15:00 | Stephen H | Fyne desktop, current and future ([join](https://youtu.be/Xq23dgooheo)) |
+| 15:00 | 15:50 | Andy W | 1.2 release, roadmap and the future ([join](https://youtu.be/Xq23dgooheo)) |
+| 16:00 | 16:30 | Fyne Team | Q&A with the Fyne team ([join](https://meet.google.com/zht-jbfm-jrz)) |
+
+Questions for the presenters and the Q&A session can be submitted on [Twitter](https://twitter.com/fyne_io), through the [#fyne](https://gophers.slack.com/app_redirect?channel=fyne) channel on the [Gophers](https://invite.slack.golangbridge.org/) slack server, or using the YouTube Live chat during the main presentations.
 
 ## Support or Contact
 
