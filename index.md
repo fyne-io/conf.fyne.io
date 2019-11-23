@@ -1,7 +1,7 @@
 ## Fyne Conf 2019
 
 Fyne Conf is the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
-The event will be held on Friday 22nd November 2019.
+The event was held on Friday 22nd November 2019.
 
 This event is a chance to learn more about Fyne and how it can be used
 to build robust and performant cross platform applications.
@@ -10,8 +10,8 @@ Novice or expert, coder or designer, we will have something for everyone.
 
 ## Location
 
-Fyne Conf 2019 is an online meeting. Live streams and chat rooms will allow
-anyone to attend from around the world.
+Fyne Conf 2019 is an online meeting. Recordings of all the live streamed events
+are linked in the schedule below for everyone to see what we covered.
 
 ## Speakers
 
@@ -24,14 +24,12 @@ anyone to attend from around the world.
 
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
-| 12:00 | 12:50 | Andy W | Welcome, Vision and project outline ([join](https://youtu.be/-oTjciec9OY)) |
-| 13:00 | 13:50 | Steve O'C | Fun and games with the Fyne toolkit (join above) |
+| 12:00 | 12:50 | Andy W | Welcome, Vision and project outline ([watch](https://youtu.be/DmafJ1sQB_s)) |
+| 13:00 | 13:50 | Steve O'C | Fun and games with the Fyne toolkit ([watch](https://youtu.be/kPmvd40B-CU)) |
 | 13:50 | 14:10 | | *Break* |
-| 14:10 | 15:00 | Stephen H | Fyne desktop, current and future ([join](https://youtu.be/Xq23dgooheo)) |
-| 15:00 | 15:50 | Andy W | 1.2 release, roadmap and the future (join above) |
-| 16:00 | 16:30 | Fyne Team | Q&A with the Fyne team ([join](https://meet.google.com/zht-jbfm-jrz)) |
-
-Questions for the presenters and the Q&A session can be submitted on [Twitter](https://twitter.com/fyne_io), through the [#fyne](https://gophers.slack.com/app_redirect?channel=fyne) channel on the [Gophers](https://invite.slack.golangbridge.org/) slack server, or using the YouTube Live chat during the main presentations.
+| 14:10 | 15:00 | Stephen H | Fyne desktop, current and future ([watch](https://youtu.be/lilBeW9mVcU)) |
+| 15:00 | 15:50 | Andy W | 1.2 release, roadmap and the future ([watch](https://youtu.be/yynNhhy2bxg)) |
+| 16:00 | 16:30 | Fyne Team | Q&A with the Fyne team |
 
 ## Support or Contact
 
