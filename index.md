@@ -1,12 +1,12 @@
 ## Fyne Conf 2019
 
-Fyne Conf is the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne), it's community and the applications built around it.
+Fyne Conf is the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
 The event will be held on Friday 22nd November 2019.
 
 This event is a chance to learn more about Fyne and how it can be used
 to build robust and performant cross platform applications.
 We will showcase existing applications and the desktop platform that is also in development.
-Novice or expert, coder or designer we will have something for everyone.
+Novice or expert, coder or designer, we will have something for everyone.
 
 ## Location
 
