@@ -1,38 +1,49 @@
-## Fyne Conf 2019
+## Fyne Conf 2020
 
-Fyne Conf is the world's first conference focused on the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
-The event was held on Friday 22nd November 2019.
+Fyne Conf returns in 2020 to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
+The event is planned for June 2020, a call for papers is [now open](https://www.papercall.io/events/3535).
 
 This event is a chance to learn more about Fyne and how it can be used
 to build robust and performant cross platform applications.
-We will showcase existing applications and the desktop platform that is also in development.
-Novice or expert, coder or designer, we will have something for everyone.
+We will showcase useful features and techniques, existing applications and our desktop platform.
+Novice to expert - coder, tester or designer - we will have something for everyone.
 
 ## Location
 
-Fyne Conf 2019 is an online meeting. Recordings of all the live streamed events
-are linked in the schedule below for everyone to see what we covered.
+Fyne Conf 2020 is an online meeting. The live streams will be publicly available to everyone
+and they will be recorded for upload after the event.
 
-## Speakers
+## Speakers - More to be announced
 
-| Andy Williams | Stephen Houston | Steve O'Connor |
+| Andy Williams |  | Your name here? |
 |:---:|:---:|:---:|
-| [andydotxyz](https://twitter.com/andydotxyz) | [stephenmhouston](https://twitter.com/stephenmhouston) | [steveoc641](https://twitter.com/steveoc641) |
-| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | ![](https://pbs.twimg.com/profile_images/911998357354168325/xnF4ZYT1_200x200.jpg) | ![](https://pbs.twimg.com/profile_images/1187898075039195136/mQJ-_k1G_400x400.jpg) |
+| [andydotxyz](https://twitter.com/andydotxyz) |  |  |
+| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) |  |  |
+
+To add your name here why not [propose a talk](https://www.papercall.io/events/3535)?
 
 ## Schedule - Friday Nov 22 2019
 
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
-| 12:00 | 12:50 | Andy W | Welcome, Vision and project outline ([watch](https://youtu.be/DmafJ1sQB_s)) |
-| 13:00 | 13:50 | Steve O'C | Fun and games with the Fyne toolkit ([watch](https://youtu.be/kPmvd40B-CU)) |
-| 13:50 | 14:10 | | *Break* |
-| 14:10 | 15:00 | Stephen H | Fyne desktop, current and future ([watch](https://youtu.be/lilBeW9mVcU)) |
-| 15:00 | 15:50 | Andy W | 1.2 release, roadmap and the future ([watch](https://youtu.be/yynNhhy2bxg)) |
-| 16:00 | 16:30 | Fyne Team | Q&A with the Fyne team |
+| 12:00 | 12:25 | Andy W | Welcome, State of the project, what's new in 1.3 |
+| 12:25 | 12:50 | tbc | TBC |
+| 12:50 | 13:15 | tbc | TBC |
+| 13:30 | 13:45 | | *Break* |
+| 13:45 | 14:10 | tbc | TBC |
+| 14:10 | 14:35 | tbc | TBC |
+| 14:30 | 15:00 | tbc | TBC |
+| 15:00 | 16:00 | Fyne Team | Q&A, roadmap discussion |
 
 ## Support or Contact
 
 Looking to find out more or get help attending? The Fyne team can be contacted
 in the ways described on our [main website](https://fyne.io/#contact).
 You can submit questions for our Q&A session in advance using any of our contact channels.
+
+
+## Archive
+
+If you are interested in previous conferences and the sessions we recoreded, you can find them in this archive:
+
+* [FyneConf 2019](/archive/2019)
