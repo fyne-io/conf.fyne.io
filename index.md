@@ -1,7 +1,7 @@
 ## Fyne Conf 2020
 
 Fyne Conf returns in 2020 to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
-The event is planned for June 2020, a call for papers is [now open](https://www.papercall.io/events/3535).
+The event is planned for June 2020, a call for papers is [now open](https://www.papercall.io/fyneconf2020).
 
 This event is a chance to learn more about Fyne and how it can be used
 to build robust and performant cross platform applications.
