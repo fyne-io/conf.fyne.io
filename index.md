@@ -13,7 +13,7 @@ Novice to expert - coder, tester or designer - we will have something for everyo
 Fyne Conf 2020 is an online meeting. The live streams will be publicly available to everyone
 and they will be recorded for upload after the event.
 
-## Speakers - More to be announced
+## Speakers
 
 | Andy Williams | Anthony Starks | Jacob Alzén | Stephen M Houston |
 |:---:|:---:|:---:|:---:|
