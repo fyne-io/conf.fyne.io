@@ -18,7 +18,7 @@ and they will be recorded for upload after the event.
 | Andy Williams | Anthony Starks | Jacob Alzén | Stephen M Houston |
 |:---:|:---:|:---:|:---:|
 | [andydotxyz](https://twitter.com/andydotxyz) | [ajstarks](https://twitter.com/ajstarks) | [jacalz](https://github.com/jacalz) | [stephenmhouston](https://twitter.com/stephenmhouston) |
-| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | ![](https://pbs.twimg.com/profile_images/932754290678124544/KE0Fx0yz_200x200.jpg) | <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | ![](https://pbs.twimg.com/profile_images/911998357354168325/xnF4ZYT1_200x200.jpg) |
+| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | ![](/assets/img/ajstarks.jpg) | <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | ![](https://pbs.twimg.com/profile_images/911998357354168325/xnF4ZYT1_200x200.jpg) |
 
 ## Schedule - Thursday June 18 2020
 
