@@ -33,7 +33,7 @@ the Q&A session will be held on [jitsi.org](https://meet.jit.si/FyneChat).
 | 13:25 | 13:45 | Andy W | How easy is it to build your first Fyne app? |
 | 13:50 | 14:10 | Jacob A | Sparta - The private way to keep track of exercises |
 | 14:15 | 14:35 | Stephen H | Fynedesk - 0.1.3 Release and Future Roadmap |
-| 14:35 | 13:50 | | *Break* |
+| 14:35 | 14:50 | | *Break* |
 | 14:50 | 15:10 | Andy W | Cross platform file and resource handling |
 | 15:15 | 15:35 | Anthony S | fc - a high-level canvas API for the fyne toolkit |
 | 15:40 | 16:00 | Andy W | Let's talk terminals! |
