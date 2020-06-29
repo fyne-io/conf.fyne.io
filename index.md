@@ -10,10 +10,8 @@ Novice to expert - coder, tester or designer - we will have something for everyo
 
 ## Location
 
-Fyne Conf 2020 is an online meeting. The live streams will be publicly available to everyone
-and they will be recorded for upload after the event.
-
-The live-stream will be available on [YouTube Live](https://youtu.be/Cl7v4iN9Djk).
+Fyne Conf 2020 is an online meeting. Recordings of all the sessions are linked
+in the schedule below in case you missed any.
 
 ## Speakers
 
