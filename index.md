@@ -24,21 +24,20 @@ The live-stream will be available on [YouTube Live](https://youtu.be/Cl7v4iN9Djk
 
 ## Schedule - Thursday June 18 2020
 
-The talks will all be streamed on [YouTube Live](https://youtu.be/Cl7v4iN9Djk),
-the Q&A session will be held on [jitsi.org](https://meet.jit.si/FyneChat).
+The talks are now available on our [FyneConf 2020](https://www.youtube.com/playlist?list=PLjpijTpXl1_oqeLgMmAZE4l_2D7xtDzm0) playlist.
 
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
-| 13:00 | 13:20 | Andy W | Welcome, State of the project, what's new in 1.3 ([watch](https://youtu.be/Cl7v4iN9Djk)) |
-| 13:25 | 13:45 | Andy W | How easy is it to build your first Fyne app? |
-| 13:50 | 14:10 | Jacob A | Sparta - The private way to keep track of exercises |
-| 14:15 | 14:35 | Stephen H | Fynedesk - 0.1.3 Release and Future Roadmap |
+| 13:00 | 13:20 | Andy W | Welcome, State of the project, what's new in 1.3 ([watch](https://youtu.be/0c2vsAiNxRk)) |
+| 13:25 | 13:45 | Andy W | How easy is it to build your first Fyne app? ([watch](https://youtu.be/ZYtd6rjP0TM)) |
+| 13:50 | 14:10 | Jacob A | Sparta - The private way to keep track of exercises ([watch](https://youtu.be/Ckyjgh5moTY)) |
+| 14:15 | 14:35 | Stephen H | Fynedesk - 0.1.3 Release and Future Roadmap ([watch](https://youtu.be/7yIzRluMQP0)) |
 | 14:35 | 14:50 | | *Break* |
-| 14:50 | 15:10 | Andy W | Cross platform file and resource handling |
-| 15:15 | 15:35 | Anthony S | fc - a high-level canvas API for the fyne toolkit |
-| 15:40 | 16:00 | Andy W | Let's talk terminals! |
-| 16:00 | 16:15 | Andy W | The Road to 2.0 |
-| 16:15 | 17:00 | Fyne Team | Q&A with the Fyne team ([join](https://meet.jit.si/FyneChat)) |
+| 14:50 | 15:10 | Andy W | Cross platform file and resource handling ([watch](https://youtu.be/qadrKxvM05g)) |
+| 15:15 | 15:35 | Anthony S | fc - a high-level canvas API for the fyne toolkit ([watch](https://youtu.be/L848NRmIy8c)) |
+| 15:40 | 16:00 | Andy W | Let's talk terminals! ([watch](https://youtu.be/yt9BydyZnYM)) |
+| 16:00 | 16:15 | Andy W | The Road to 2.0 ([watch](https://youtu.be/Qe84tiEdFfs)) |
+| 16:15 | 17:00 | Fyne Team | Q&A with the Fyne team |
 
 ## Support or Contact
 
