@@ -2,7 +2,7 @@
 
 Fyne Conf is back for another installment in 2021.
 We are planning a half-day virtual event to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
-The event is taking place on 9th July 2021, time to be confirmed.
+The event is taking place on 17th September 2021, time to be confirmed.
 
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
