@@ -18,10 +18,10 @@ each session will be made available after the event.
 
 We are still working on our speaker lineup, if you would like to be considered please respond to our [call for papers](https://papercall.io/fyneconf2021), or [get in touch](https://fyne.io/#contact).
 
-| Andy Williams | Jacob Alzén | Bob Shofner |
+| Andy Williams | Jacob Alzén | Charles Daniels | Bob Shofner |
 |:---:|:---:|:---:|:---:|
-| [andydotxyz](https://twitter.com/andydotxyz) | [jacalz](https://github.com/jacalz) |  |
-| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> |  |
+| [andydotxyz](https://twitter.com/andydotxyz) | [jacalz](https://github.com/jacalz) | [charlesdaniels](https://github.com/charlesdaniels)  |  |
+| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/11738895?v=4" width="200" />  |  |
 
 
 
