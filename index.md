@@ -23,7 +23,7 @@ We are still working on our speaker lineup, if you would like to be considered p
 | Andy Williams | Charles Daniels | Jacob Alzén | Michelle Williams | Bob Shofner |
 |:---:|:---:|:---:|:---:|:---:|
 | [andydotxyz](https://twitter.com/andydotxyz) | [charlesdaniels](https://github.com/charlesdaniels) | [jacalz](https://github.com/jacalz) | [imagingmedsci](https://twitter.com/imagingmedsci) |  |
-| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | <img src="https://avatars.githubusercontent.com/u/11738895?v=4" width="200" />  |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="/assets/img/imagingmedsci.jpeg" width="200" /> |  |
+| ![](https://pbs.twimg.com/profile_images/1067518795055579136/hqSGJjXC_200x200.jpg) | <img src="https://avatars.githubusercontent.com/u/11738895?v=4" width="200" />  |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="/assets/img/imagingmedsci.jpeg" width="200" /> | <img src="/assets/img/fyne.png" width="200" /> |
 
 ## Schedule - Thursday June 18 2020
 
