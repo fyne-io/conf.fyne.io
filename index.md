@@ -34,9 +34,9 @@ Most segments will also be available to watch after the event.
 |:---:|:---:|:---|:---|
 | 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new |
 | 13:30 | 13:55 | Andy W | Architecture and design, building apps for desktop and mobile |
-| 14:00 | 14:25 | Charles D | Storage repositories and file abstraction |
+| 14:00 | 14:25 | Jacob A | Exploring the standard layouts and common usage |
 | 14:30 | 14:55 | Bob S, Charles D, Michelle W | My Fyne apps :) |
-| 15:00 | 15:25 | Jacob A | Exploring the standard layouts and common usage |
+| 15:00 | 15:25 | Charles D | Storage repositories and file abstraction |
 | 15:30 | 15:55 | TBC | (TBC) |
 | 16:00 | 16:15 | Andy W | The Road Ahead |
 | 16:15 | 17:00 | Fyne Team | Q&A with the Fyne team ([signup required](https://www.eventbrite.co.uk/e/fyneconf-2021-registration-168096044795)) |
