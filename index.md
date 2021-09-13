@@ -32,7 +32,7 @@ We are still working on our speaker lineup, if you would like to be considered p
 
 ## Schedule - Friday 17 September 2021
 
-All talks will be streamed streamed from our YouTube channel.
+All talks will be streamed live from our YouTube channel.
 Most segments will also be available to watch after the event.
 
 | Start (UTC) | End (UTC) | Speaker | Title |
