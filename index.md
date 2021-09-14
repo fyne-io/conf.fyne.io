@@ -28,7 +28,7 @@ We are still working on our speaker lineup, if you would like to be considered p
 | Michelle Williams | Bob Shofner | Cedric Bail |
 |:---:|:---:|:---:|
 | [imagingmedsci](https://twitter.com/imagingmedsci) |  | [Bluebugs](https://github.com/Bluebugs) |
-| <img src="/assets/img/imagingmedsci.jpeg" width="200" /> | <img src="/assets/img/bobshofner.jpg" width="200" /> | <img src="/assets/img/bluebugs.png" width="200" /> |
+| <img src="/assets/img/imagingmedsci.jpeg" width="200" /> | <img src="/assets/img/bobshofner.jpg" width="200" /> | <img src="/assets/img/cedric.jpg" width="200" /> |
 
 ## Schedule - Friday 17 September 2021
 
