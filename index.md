@@ -11,14 +11,11 @@ Novice to expert - coder, tester or designer - we will have something for everyo
 
 ## Location
 
-Fyne Conf 2021 is an online meeting. It will be streamed live and recordings of
-each session will be made available after the event.
-You can register for the talks and also sign up the Q&A session and our eBook competition at [eventbrite](https://www.eventbrite.co.uk/e/fyneconf-2021-registration-168096044795).
+Fyne Conf 2021 is an online meeting. It was streamed live, you can watch the
+[recorded live stream](https://www.youtube.com/watch?v=uK56KIyUnRM) now.
+Recordings of each session will be made available shortly.
 
 ## Speakers
-
-We are still working on our speaker lineup, if you would like to be considered please
-[get in touch](https://fyne.io/#contact).
 
 | Andy Williams | Charles Daniels | Jacob Alzén |
 |:---:|:---:|:---:|
@@ -44,7 +41,7 @@ Most segments will also be available to watch after the event.
 | 15:00 | 15:25 | Charles D | Storage repositories and file abstraction |
 | 15:30 | 15:55 | Jacob&nbsp;A, Cedric&nbsp;B, Andy&nbsp;W | Tech previews, early access |
 | 16:00 | 16:15 | Andy W | The Road Ahead |
-| 16:15 | 17:00 | Fyne Team | Q&A with the Fyne team ([signup required](https://www.eventbrite.co.uk/e/fyneconf-2021-registration-168096044795)) |
+| 16:15 | 17:00 | Fyne Team | Q&A with the Fyne team |
 
 ## Sponsorship
 
