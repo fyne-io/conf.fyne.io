@@ -12,8 +12,7 @@ Novice to expert - coder, tester or designer - we will have something for everyo
 ## Location
 
 Fyne Conf 2021 is an online meeting. It was streamed live, you can watch the
-[recorded live stream](https://www.youtube.com/watch?v=uK56KIyUnRM) now.
-Recordings of each session will be made available shortly.
+recorded segments by following the 'watch' links in the table below.
 
 ## Speakers
 
@@ -29,18 +28,18 @@ Recordings of each session will be made available shortly.
 
 ## Schedule - Friday 17 September 2021
 
-All talks will be streamed live from our YouTube channel.
-Most segments will also be available to watch after the event.
+The schedule for FyneConf 2021 was as follows, you can watch the recordings by tapping the
+'watch' link for each item. The Live Q&A session is not available as a recording.
 
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
-| 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new |
-| 13:30 | 13:55 | Andy W | Architecture and design, building apps for desktop and mobile |
-| 14:00 | 14:25 | Jacob A | Exploring the standard layouts and common usage |
-| 14:30 | 14:55 | Bob&nbsp;S, Charles&nbsp;D, Michelle&nbsp;W | My Fyne apps :) |
-| 15:00 | 15:25 | Charles D | Storage repositories and file abstraction |
-| 15:30 | 15:55 | Jacob&nbsp;A, Cedric&nbsp;B, Andy&nbsp;W | Tech previews, early access |
-| 16:00 | 16:15 | Andy W | The Road Ahead |
+| 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new ([watch](https://youtu.be/viKut3CsmgA)) |
+| 13:30 | 13:55 | Andy W | Architecture and design, building apps for desktop and mobile ([watch](https://youtu.be/1sHTbOyn7uo)) |
+| 14:00 | 14:25 | Jacob A | Exploring the standard layouts and common usage ([watch](https://youtu.be/LWn1403gY9E)) |
+| 14:30 | 14:55 | Bob&nbsp;S, Charles&nbsp;D, Michelle&nbsp;W | My Fyne apps :) ([watch](https://youtu.be/Xl3305oeQus)) |
+| 15:00 | 15:25 | Charles D | Storage repositories and file abstraction ([watch](https://youtu.be/KA2lU9zoJKg)) |
+| 15:30 | 15:55 | Jacob&nbsp;A, Cedric&nbsp;B, Andy&nbsp;W | Tech previews, early access ([watch](https://youtu.be/t8gEzPujIVI)) |
+| 16:00 | 16:15 | Andy W | The Road Ahead ([watch](https://youtu.be/v2tmICOqM4w)) |
 | 16:15 | 17:00 | Fyne Team | Q&A with the Fyne team |
 
 ## Sponsorship
@@ -52,9 +51,8 @@ to be given away to a lucky few attendees.
 
 ## Support or Contact
 
-Looking to find out more or get help attending? The Fyne team can be contacted
+Looking to find out more? The Fyne team can be contacted
 in the ways described on our [main website](https://fyne.io/#contact).
-You can submit questions for our Q&A session in advance using any of our contact channels.
 
 
 ## Archive
