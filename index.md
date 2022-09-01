@@ -15,7 +15,7 @@ Fyne Conf 2022 is a hybrid meeting meeting. The workshops and in-person talks wi
 
 ## Speakers
 
-To be announced
+To be announced - why not [submit a talk](https://www.papercall.io/fyneconf2022)
 
 ## Schedule - Friday 14 October 2022
 
