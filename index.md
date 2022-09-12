@@ -9,6 +9,12 @@ easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
 Novice to expert - coder, tester or designer - we will have something for everyone.
 
+<p style="text-align: center; padding: 10pt; margin: auto;">
+<a href="https://fyne-conf-2022-virtual.eventbrite.co.uk" style="text-decoration: none; color: #666; background-color: #b5e853; padding: 10pt; font-size: 14pt; font-weight: bold; border: 1pt solid #666; border-radius: 5pt; ">Virtual tickets</a>
+&nbsp;
+<a href="https://fyne-conf-2022.eventbrite.co.uk" style="text-decoration: none; color: #666; background-color: #b5e853; padding: 10pt; font-size: 14pt; font-weight: bold; border: 1pt solid #666; border-radius: 5pt; ">In-person tickets</a>
+</p>
+
 ## Location
 
 Fyne Conf 2022 is a hybrid meeting meeting. The workshops and in-person talks will occur at [CodeBase, Edinburgh](https://thisiscodebase.com) (Scotland, UK). It will also be streamed live, you can watch the segments as they stream, or catch up later.
