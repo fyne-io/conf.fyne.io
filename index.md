@@ -11,7 +11,7 @@ Novice to expert - coder, tester or designer - we will have something for everyo
 
 ## Location
 
-Fyne Conf 2022 is a hybrid meeting meeting. The workshops and in-person talks will occur at Edinburgh (Scotland, UK - details to be confirmed). It will also be streamed live, you can watch the segments as they stream, or catch up later.
+Fyne Conf 2022 is a hybrid meeting meeting. The workshops and in-person talks will occur at [CodeBase, Edinburgh](https://thisiscodebase.com) (Scotland, UK). It will also be streamed live, you can watch the segments as they stream, or catch up later.
 
 ## Speakers
 
