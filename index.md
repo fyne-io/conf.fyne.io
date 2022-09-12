@@ -27,7 +27,7 @@ It is expected to be a day in two halfs, the morning will be workshops and the a
 
 This event is sponsored by:
 
-* [Fyne Labs](https://fynelabs.com)
+<a href="https://fynelabs.com" style="text-decoration: none"><img src="assets/img/fynelabs.png" width="154" /></a>
 
 We would be happy to welcome more sponsors to this event, please get in touch!
 
