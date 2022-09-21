@@ -1,7 +1,7 @@
 ## Fyne Conf 2022
 
 Fyne Conf is back the latest installment in 2022.
-We are holding a full-day hubrid event to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
+We are holding a full-day hybrid event to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
 The event is taking place on 14th october 2022 and this year will ahve a focus on best practices in platform-agnostic app development.
 
 This event is a chance to learn more about Fyne and how it can be used to
