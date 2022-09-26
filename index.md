@@ -32,7 +32,7 @@ The schedule for our event will be as follows, all the segments will play on the
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
 | 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new |
-| 13:30 | 13:55 | Jacob A | Extending widgets using interfaces |
+| 13:30 | 13:55 | Jacob A | The interfaces behind custom widgets |
 | 14:00 | 14:25 | TBC |  |
 | 14:30 | 14:55 | TBC |  |
 | 15:00 | 15:25 | Cedric B | Cross compiling in the cloud with Kubernetes |
