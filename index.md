@@ -34,7 +34,7 @@ The schedule for our event will be as follows, all the segments will play on the
 | 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new |
 | 13:30 | 13:55 | Jacob A | The interfaces behind custom widgets |
 | 14:00 | 14:25 | Andy W | Best practices for excellent Fyne apps |
-| 14:30 | 14:55 | TBC |  |
+| 14:30 | 14:55 | TBC | Upgrading your app with cloud sync |
 | 15:00 | 15:25 | Cedric B | Cross compiling in the cloud with Kubernetes |
 | 15:30 | 15:55 | Andy W | The Road Ahead |
 | 16:00 | 17:00 | Fyne Team | Q&A with the Fyne team |
