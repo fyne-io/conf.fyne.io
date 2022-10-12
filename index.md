@@ -19,10 +19,10 @@ Fyne Conf 2022 is a virtual meeting. It will be streamed live on our [YouTube ch
 
 ## Speakers
 
-| Andy Williams | Cedric Bail | Jacob Alzén | More TBC |
+| Andy Williams | Cedric Bail | Jacob Alzén | Derek Reid |
 |:---:|:---:|:---:|:---:|
-| [andydotxyz](https://twitter.com/andydotxyz) | [Bluebugs](https://github.com/Bluebugs) | [jacalz](https://github.com/jacalz) | |
-| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/cedric.jpg" width="200" /> |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | |
+| [andydotxyz](https://twitter.com/andydotxyz) | [Bluebugs](https://github.com/Bluebugs) | [jacalz](https://github.com/jacalz) | [itsjustdel](https://github.com/itsjustdel) |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/cedric.jpg" width="200" /> |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | ![](/assets/img/itsjustdel.jpg) |
 
 
 ## Schedule - Friday 14 October 2022
@@ -34,7 +34,7 @@ The schedule for our event will be as follows, all the segments will play on the
 | 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new |
 | 13:30 | 13:55 | Jacob A | The interfaces behind custom widgets |
 | 14:00 | 14:25 | Andy W | Best practices for excellent Fyne apps |
-| 14:30 | 14:55 | TBC | Upgrading your app with cloud sync |
+| 14:30 | 14:55 | Andy&nbsp;W & Derek&nbsp;R | Upgrading your app with cloud sync |
 | 15:00 | 15:25 | Cedric B | Cross compiling in the cloud with Kubernetes |
 | 15:30 | 15:55 | Andy W | The Road Ahead |
 | 16:00 | 17:00 | Fyne Team | Q&A with the Fyne team |
