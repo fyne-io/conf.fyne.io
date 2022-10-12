@@ -22,7 +22,7 @@ Fyne Conf 2022 is a virtual meeting. It will be streamed live on our [YouTube ch
 | Andy Williams | Cedric Bail | Jacob Alzén | Derek Reid |
 |:---:|:---:|:---:|:---:|
 | [andydotxyz](https://twitter.com/andydotxyz) | [Bluebugs](https://github.com/Bluebugs) | [jacalz](https://github.com/jacalz) | [itsjustdel](https://github.com/itsjustdel) |
-| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/cedric.jpg" width="200" /> |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | ![](/assets/img/itsjustdel.jpg) |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/cedric.jpg" width="200" /> |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="/assets/img/itsjustdel.jpg" width="200" /> |
 
 
 ## Schedule - Friday 14 October 2022
