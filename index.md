@@ -2,20 +2,17 @@
 
 Fyne Conf is back the latest installment in 2022.
 We are holding a half-day virtual event to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne), its community and the applications built around it.
-The event is taking place on 14th october 2022 and this year will have a focus on best practices in platform-agnostic app development.
+The event took place on 14th october 2022 with a focus on best practices in platform-agnostic app development.
 
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
-Novice to expert - coder, tester or designer - we will have something for everyone.
-
-<p style="text-align: center; padding: 10pt; margin: auto;">
-<a href="https://fyne-conf-2022-virtual.eventbrite.co.uk" style="text-decoration: none; color: #666; background-color: #b5e853; padding: 10pt; font-size: 14pt; font-weight: bold; border: 1pt solid #666; border-radius: 5pt; ">Get your Ticket!</a>
-</p>
+Novice to expert - coder, tester or designer - there is something for everyone.
 
 ## Location
 
-Fyne Conf 2022 is a virtual meeting. It will be streamed live on our [YouTube channel](https://www.youtube.com/c/fyne-io), you can watch the segments as they stream, or catch up later. There will be a chance to ask questions during each presentation and a full Q&A session with the team at the end of the event.
+Fyne Conf 2022 was a virtual meeting. It was streamed live, the videos have all been recorded and are linked from each segment in the schedule below.
+There was a Q&A session for all attendees, but the content was not recorded.
 
 ## Speakers
 
@@ -27,11 +24,11 @@ Fyne Conf 2022 is a virtual meeting. It will be streamed live on our [YouTube ch
 
 ## Schedule - Friday 14 October 2022
 
-The schedule for our event will be as follows, all the segments will play on the [live stream](https://youtu.be/IbFEWbuQMr0) and video links will be available later.
+The schedule for our event was as follows, video links and downloads of the slides are available next to each item, if they have been released.
 
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
-| 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new |
+| 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new ([watch](https://youtu.be/uJr1vqgEfmo), [slides](/archive/2022/Welcome.pdf)) |
 | 13:30 | 13:55 | Jacob A | The interfaces behind custom widgets |
 | 14:00 | 14:25 | Andy W | Best practices for excellent Fyne apps |
 | 14:30 | 14:55 | Andy&nbsp;W & Derek&nbsp;R | Upgrading your app with cloud sync |
