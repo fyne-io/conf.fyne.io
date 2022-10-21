@@ -29,7 +29,7 @@ The schedule for our event was as follows, video links and downloads of the slid
 | Start (UTC) | End (UTC) | Speaker | Title |
 |:---:|:---:|:---|:---|
 | 13:00 | 13:25 | Andy W | Welcome, State of the project, What's new ([watch](https://youtu.be/uJr1vqgEfmo), [slides](/archive/2022/Welcome.pdf)) |
-| 13:30 | 13:55 | Jacob A | The interfaces behind custom widgets |
+| 13:30 | 13:55 | Jacob A | The interfaces behind custom widgets ([watch](https://youtu.be/TDae1Kmxu_0), [slides](/archive/2022/Widgets.pdf)) |
 | 14:00 | 14:25 | Andy W | Best practices for excellent Fyne apps |
 | 14:30 | 14:55 | Andy&nbsp;W & Derek&nbsp;R | Upgrading your app with cloud sync |
 | 15:00 | 15:25 | Cedric B | Cross compiling in the cloud with Kubernetes |
