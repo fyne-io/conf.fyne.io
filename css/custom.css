@@ -1,0 +1,20 @@
+section {
+  padding: 0;
+}
+
+body {
+  color: #eaeaea
+}
+
+body h2 {
+  color: #b5e853;
+}
+
+body header h2 {
+  color: #666;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: rgba(255,255,255,0.7) !important;
+}
+
