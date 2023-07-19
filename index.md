@@ -3,10 +3,10 @@
 Fyne Conf is back and bigger than ever in November 2023.
 We are holding a full day of talks and workshops, the agenda is still to be decided, but it will include:
 
-* online, recorded live, talks to discuss all topics about the [Fyne toolkit](https://github.com/fyne-io/fyne)
-* demonstrations of community built applications
-* contributor workshop
-* best practice discussions and Q&A
+* Contributor workshop (morning)
+* Talks about the Fyne toolkit and community projects (afternoon, streamed live)
+* Q&A with the Fyne contributor team (afternoon)
+* Social event (evening)
 
 The event will take place on 3rd November 2023 in central Edinburgh, UK and streamed live to YouTube.
 
