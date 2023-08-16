@@ -10,6 +10,10 @@ We are holding a full day of talks and workshops, the agenda is still to be deci
 
 The event will take place on 3rd November 2023 in central Edinburgh, UK and streamed live to YouTube.
 
+<p style="text-align: center">
+  <a href="https://www.papercall.io/fyneconf2023" class="btn btn-primary">Submit proposal</a>
+</p>
+
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
@@ -21,7 +25,7 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 
 ## Speakers
 
-TBC - why not make a suggestion?
+TBC - why not [propose your talk](https://www.papercall.io/fyneconf2023)?
 
 ## Sponsorship
 
@@ -41,7 +45,7 @@ in the ways described on our [main website](https://fyne.io/#contact).
 
 If you are interested in previous conferences and the sessions we recoreded, you can find them in this archive:
 
-* [FyneConf 2021](/archive/2022)
+* [FyneConf 2022](/archive/2022)
 * [FyneConf 2021](/archive/2021)
 * [FyneConf 2020](/archive/2020)
 * [FyneConf 2019](/archive/2019)
