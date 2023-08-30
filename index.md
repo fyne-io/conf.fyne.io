@@ -12,6 +12,8 @@ The event will take place on 3rd November 2023 in central Edinburgh, UK and stre
 
 <p style="text-align: center">
   <a href="https://www.papercall.io/fyneconf2023" class="btn btn-primary">Submit proposal</a>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.eventbrite.co.uk/e/699591485967?aff=oddtdtcreator" class="btn btn-primary">Book your ticket</a>
 </p>
 
 This event is a chance to learn more about Fyne and how it can be used to
