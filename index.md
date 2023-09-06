@@ -1,14 +1,15 @@
 ## Fyne Conf 2023
 
 Fyne Conf is back and bigger than ever in November 2023.
-We are holding a full day of talks and workshops, the agenda is still to be decided, but it will include:
+We are holding a full day of talks and workshops, the agenda is still to be finalised, but it will include:
 
 * Contributor workshop (morning)
 * Talks about the Fyne toolkit and community projects (afternoon, streamed live)
 * Q&A with the Fyne contributor team (afternoon)
 * Social event (evening)
 
-The event will take place on 3rd November 2023 in central Edinburgh, UK and streamed live to YouTube.
+The event will take place on 3rd November 2023 in Edinburgh, UK and streamed live to YouTube.
+The venue is [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
 
 <p style="text-align: center">
   <a href="https://www.papercall.io/fyneconf2023" class="btn btn-primary">Submit proposal</a>
