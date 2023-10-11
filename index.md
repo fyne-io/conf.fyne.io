@@ -28,7 +28,12 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 
 ## Speakers
 
-TBC - why not [propose your talk](https://www.papercall.io/fyneconf2023)?
+| Andy Williams | Jacob Alzén | Ashwin Rao |
+|:---:|:---:|:---:|
+| [andydotxyz](https://twitter.com/andydotxyz) | [jacalz](https://github.com/jacalz) | [Ashwin](https://www.linkedin.com/in/ashwinraop/) |
+| ![](/assets/img/andydotxyz.jpg) |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="/assets/img/ash.jpg" width="200" /> |
+
+It's not too late to see yourself in this list - [propose your talk](https://www.papercall.io/fyneconf2023)!
 
 ## Sponsorship
 
