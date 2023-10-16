@@ -35,13 +35,15 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 |:---:|:---:|:---:|
 | [pbrown12303](https://github.com/pbrown12303) | [Renaldig](https://twitter.com/Renaldig) |  |
 |:---:|:---:|:---:|
-| <img src="/assets/img/pbrown12303.png" width="200" /> |  <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/community.png" width="200" /> |
+| <img src="/assets/img/pbrown12303.png" width="200" /> |  <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/community.png" width="180" /> |
 
 ## Sponsorship
 
 This event is sponsored by:
 
-<a href="https://fynelabs.com" style="text-decoration: none" alt="Fyne Labs" title="Fyne Labs"><img src="assets/img/fynelabs.png" width="154" /></a>
+<a href="https://fynelabs.com" style="text-decoration: none" alt="Fyne Labs" title="Fyne Labs"><img src="assets/img/fynelabs.png" style="padding: 14pt 0;" width="154" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://thisiscodebase.com" style="text-decoration: none" alt="CodeBase" title="CodeBase"><img src="assets/img/codebase.png" style="padding-top: 5pt;" width="250" /></a>
 
 We would be happy to welcome more sponsors to this event, please get in touch!
 
