@@ -3,7 +3,7 @@
 Fyne Conf is back and bigger than ever in November 2023.
 We are holding a full day of talks and workshops, the agenda is still to be finalised, but it will include:
 
-* Contributor workshop (morning)
+* Workshop (getting started, best practice, project direction) (morning)
 * Talks about the Fyne toolkit and community projects (afternoon, streamed live)
 * Q&A with the Fyne contributor team (afternoon)
 * Social event (evening)
@@ -12,8 +12,6 @@ The event will take place on 3rd November 2023 in Edinburgh, UK and streamed liv
 The venue is [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
 
 <p style="text-align: center">
-  <a href="https://www.papercall.io/fyneconf2023" class="btn btn-primary">Submit proposal</a>
-  &nbsp;&nbsp;&nbsp; 
   <a href="https://www.eventbrite.co.uk/e/699591485967?aff=oddtdtcreator" class="btn btn-primary">Book your ticket</a>
 </p>
 
@@ -33,13 +31,17 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 | [andydotxyz](https://twitter.com/andydotxyz) | [jacalz](https://github.com/jacalz) | [Ashwin](https://www.linkedin.com/in/ashwinraop/) |
 | ![](/assets/img/andydotxyz.jpg) |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="/assets/img/ash.jpg" width="200" /> |
 
-It's not too late to see yourself in this list - [propose your talk](https://www.papercall.io/fyneconf2023)!
+| Paul Brown | Renaldi Gondosubroto | Our Community! |
+|:---:|:---:|:---:|
+| [pbrown12303](https://github.com/pbrown12303) | [Renaldig](https://twitter.com/Renaldig) |  |
+|:---:|:---:|:---:|
+| <img src="/assets/img/pbrown12303.png" width="200" /> |  <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/community.png" width="200" /> |
 
 ## Sponsorship
 
 This event is sponsored by:
 
-<a href="https://fynelabs.com" style="text-decoration: none"><img src="assets/img/fynelabs.png" width="154" /></a>
+<a href="https://fynelabs.com" style="text-decoration: none" alt="Fyne Labs" title="Fyne Labs"><img src="assets/img/fynelabs.png" width="154" /></a>
 
 We would be happy to welcome more sponsors to this event, please get in touch!
 
