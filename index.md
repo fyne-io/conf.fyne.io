@@ -33,7 +33,7 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 
 | Paul Brown | Renaldi Gondosubroto | Our Community! |
 |:---:|:---:|:---:|
-| [pbrown12303](https://github.com/pbrown12303) | [Renaldig](https://twitter.com/Renaldig) |  |
+| [pbrown12303](https://github.com/pbrown12303) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) |  |
 |:---:|:---:|:---:|
 | <img src="/assets/img/pbrown12303.png" width="200" /> |  <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/community.png" width="180" /> |
 
