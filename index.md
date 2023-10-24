@@ -31,11 +31,11 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 | [andydotxyz](https://twitter.com/andydotxyz) | [jacalz](https://github.com/jacalz) | [Ashwin](https://www.linkedin.com/in/ashwinraop/) |
 | ![](/assets/img/andydotxyz.jpg) |  <img src="https://avatars3.githubusercontent.com/u/25466657?s=460&u=fd19b488f28032c9c5cf15eaf08536441d56ad93&v=4" width="200" /> | <img src="/assets/img/ash.jpg" width="200" /> |
 
-| Paul Brown | Renaldi Gondosubroto | Our Community! |
+| Paul Brown | Renaldi Gondosubroto | Samy Akroun |
 |:---:|:---:|:---:|
-| [pbrown12303](https://github.com/pbrown12303) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) |  |
+| [pbrown12303](https://github.com/pbrown12303) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) | [samy-akroun](https://www.linkedin.com/in/samy-akroun-4111bb19a/) |
 |:---:|:---:|:---:|
-| <img src="/assets/img/pbrown12303.png" width="200" /> |  <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/community.png" width="180" /> |
+| <img src="/assets/img/pbrown12303.png" width="200" /> |  <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/matwachich.jpeg" width="200" /> |
 
 ## Sponsorship
 
