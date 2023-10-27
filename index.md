@@ -59,7 +59,7 @@ All items will be hold in the CodeBase Edinburgh Events Space (enter on Castle T
 | 14:30 | | **Break** |
 | 14:45 | Andy W | FyshOS, a Well Rounded Developer Experience |
 | 15:15 | Paul B | Adding Diagram-Based UI to Fyne Applications |
-| 15:45 | Jacob A, Sami A & others | Lightning Round |
+| 15:45 | Jacob A, Samy A & others | Lightning Round |
 | 16:10 | | **Break** |
 | 16:20 | Andy W | The Road Ahead |
 | 16:30 | Fyne Team | Q&A with the Fyne team |
