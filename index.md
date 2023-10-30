@@ -1,7 +1,7 @@
 ## Fyne Conf 2023
 
 Fyne Conf is back and bigger than ever in November 2023.
-We are holding a full day of talks and workshops, you can see the full [[Schedule]] below.
+We are holding a full day of talks and workshops, you can see the full [Schedule](#schedule---friday-3-november-2023) below.
 
 The event will take place on 3rd November 2023 in Edinburgh, UK and streamed live to YouTube.
 The venue is [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
@@ -55,10 +55,10 @@ All items will be hold in the CodeBase Edinburgh Events Space (enter on Castle T
 |:---:|:---|:---|
 | 13:00 | Andy W | Welcome, State of the project, What's new |
 | 13:30 | Renaldi G | Conversational UI with Fyne |
-| 14:00 | Ashiwn R | Leveraging Go and Fyne for Dual-Purpose tools |
+| 14:00 | Paul B | Adding Diagram-Based UI to Fyne Applications |
 | 14:30 | | **Break** |
 | 14:45 | Andy W | FyshOS, a Well Rounded Developer Experience |
-| 15:15 | Paul B | Adding Diagram-Based UI to Fyne Applications |
+| 15:15 | Ashwin R | Leveraging Go and Fyne for Dual-Purpose tools |
 | 15:45 | Jacob A, Samy A & others | Lightning Round |
 | 16:10 | | **Break** |
 | 16:20 | Andy W | The Road Ahead |
