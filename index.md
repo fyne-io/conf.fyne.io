@@ -7,7 +7,7 @@ The event will take place on 3rd November 2023 in Edinburgh, UK and streamed liv
 The venue is [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
 
 <p style="text-align: center">
-  <a href="https://www.eventbrite.co.uk/e/699591485967?aff=oddtdtcreator" class="btn btn-primary">Book your ticket</a>
+  <a href="https://www.youtube.com/live/1DGNP9PnKJs?si=wEx_ZDKKhqqeH85s" class="btn btn-primary">Watch Live</a> (from 1pm UTC)
 </p>
 
 This event is a chance to learn more about Fyne and how it can be used to
