@@ -1,13 +1,13 @@
 ## Fyne Conf 2023
 
-Fyne Conf is back and bigger than ever in November 2023.
-We are holding a full day of talks and workshops, you can see the full [Schedule](#schedule---friday-3-november-2023) below.
+Fyne Conf 2023 was our first hyrid event, and saw many folk attend in person, with hundreds of attendees watching the live stream.
+We held a full day of talks and workshops, you can see the full [Schedule](#schedule---friday-3-november-2023) below.
 
-The event will take place on 3rd November 2023 in Edinburgh, UK and streamed live to YouTube.
-The venue is [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
+The event took place on 3rd November 2023 in Edinburgh, UK and was streamed live to YouTube.
+The venue was [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
 
 <p style="text-align: center">
-  <a href="https://www.youtube.com/live/1DGNP9PnKJs?si=wEx_ZDKKhqqeH85s" class="btn btn-primary">Watch Live</a> (from 1pm UTC)
+  <a href="https://www.youtube.com/live/1DGNP9PnKJs?si=wEx_ZDKKhqqeH85s" class="btn btn-primary">Watch Live Recording</a>
 </p>
 
 This event is a chance to learn more about Fyne and how it can be used to
@@ -17,7 +17,7 @@ Novice to expert - coder, tester or designer - there is something for everyone.
 
 ## Location
 
-Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual attendees.
+Fyne Conf 2023 was hosted in Edinburgh, UK as well as online for virtual attendees.
 
 ## Speakers
 
@@ -34,8 +34,8 @@ Fyne Conf 2023 will be hosted in Edinburgh, UK as well as online for virtual att
 
 ## Schedule - Friday 3 November 2023
 
-The schedule will be as follows, the afternoon talks will be live streamed, but the workshop and social are for in-person attendees only.
-All items will be hold in the CodeBase Edinburgh Events Space (enter on Castle Terrace, room is on right at reception).
+The schedule went as follows, with afternoon talks being live streamed, but the workshop and social were for in-person attendees only.
+All items will be held in the CodeBase Edinburgh Events Space (enter on Castle Terrace, room is on right at reception).
 
 
 ### Workshops
@@ -65,7 +65,7 @@ All items will be hold in the CodeBase Edinburgh Events Space (enter on Castle T
 | 16:30 | Fyne Team | Q&A with the Fyne team |
 | 17:00 | | **Social event** (drinks provided) |
 
-The social event will end at approximately 6:30pm.
+The social event ended end at approximately 6:30pm.
 
 ## Sponsorship
 
