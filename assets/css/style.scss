@@ -12,6 +12,15 @@ header {
     background-color: #151515;
 }
 
+header h1 {
+    font-weight: 600;
+    font-family: 'Poppins', 'Helvetica Neue', Arial, sans-serif;
+}
+
+header h1:before {
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+
 header .container {
     background-image: url(/assets/img/logo.png);
     background-size: auto 54pt;
