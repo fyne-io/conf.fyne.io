@@ -7,7 +7,7 @@ The event took place on 3rd November 2023 in Edinburgh, UK and was streamed live
 The venue was [CodeBase](https://thisiscodebase.com), 37a, Castle Terrace, Edinburgh EH1 2EL.
 
 <p style="text-align: center">
-  <a href="https://www.youtube.com/live/1DGNP9PnKJs?si=wEx_ZDKKhqqeH85s" class="btn btn-primary">Watch Live Recording</a>
+  <a href="https://www.youtube.com/watch?v=-F8_Xw_5zG4&list=PLjpijTpXl1_pD8663I9ztUHocyG0geTiD&pp=iAQB" class="btn btn-primary">Watch Playlist</a>
 </p>
 
 This event is a chance to learn more about Fyne and how it can be used to
@@ -53,15 +53,15 @@ All items will be held in the CodeBase Edinburgh Events Space (enter on Castle T
 
 | Start (UTC) | Speaker | Title |
 |:---:|:---|:---|
-| 13:00 | Andy W | Welcome, State of the project, What's new |
-| 13:30 | Renaldi G | Conversational UI with Fyne |
-| 14:00 | Paul B | Adding Diagram-Based UI to Fyne Applications |
+| 13:00 | Andy W | Welcome, State of the project, What's new - [Watch](https://youtu.be/-F8_Xw_5zG4?feature=shared) |
+| 13:30 | Renaldi G | Conversational UI with Fyne - [Watch](https://youtu.be/eV9O-cyoTXY?feature=shared) |
+| 14:00 | Paul B | Adding Diagram-Based UI to Fyne Applications - [Watch](https://youtu.be/ADMbm1ASSrI?feature=shared) |
 | 14:30 | | **Break** |
-| 14:45 | Andy W | FyshOS, a Well Rounded Developer Experience |
-| 15:15 | Ashwin R | Leveraging Go and Fyne for Dual-Purpose tools |
-| 15:45 | Jacob A, Samy A & others | Lightning Round |
+| 14:45 | Andy W | FyshOS, a Well Rounded Developer Experience - [Watch](https://youtu.be/XXmDmn-et4E?feature=shared) |
+| 15:15 | Ashwin R | Leveraging Go and Fyne for Dual-Purpose tools - [Watch](https://youtu.be/oi4bEEml_10?feature=shared) |
+| 15:45 | Jacob A, Samy A & others | Lightning Round - [Watch](https://youtu.be/EsX8CgC_N5M?feature=shared) |
 | 16:10 | | **Break** |
-| 16:20 | Andy W | The Road Ahead |
+| 16:20 | Andy W | The Road Ahead - [Watch](https://youtu.be/_Z6L1YJx6Y0?feature=shared) |
 | 16:30 | Fyne Team | Q&A with the Fyne team |
 | 17:00 | | **Social event** (drinks provided) |
 
