@@ -1,4 +1,27 @@
 title: Fyne Conf
 description: Exploring the exciting word of platform-agnostic app development with Fyne
+git_address: https://github.com/fyne-io/conf
+git_edit_address: https://github.com/fyne-io/conf/tree/master
 
-theme: jekyll-theme-hacker
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: slate # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - vendor
+
