@@ -10,7 +10,7 @@ We will showcase useful techniques, best practices, new features and existing ap
 Novice to expert - coder, tester or designer - there is something for everyone.
 
 <div style="text-align: center" class="button">
-![Call for Papers](https://www.papercall.io/fyneconf2024)
+[Call for Papers](https://www.papercall.io/fyneconf2024)
 </div>
 
 ## Location

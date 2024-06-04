@@ -18,6 +18,12 @@ ul li {
     list-style-image: url("/assets/img/bullet.png");
 }
 
+div.button {
+    color: #b5e853;
+    text-align: center;
+    font-weight: bold;
+}
+
 .navbar-default .navbar-nav>li>a {
   color: rgba(255,255,255,0.7) !important;
 }
