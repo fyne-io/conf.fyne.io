@@ -9,13 +9,17 @@ easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
 Novice to expert - coder, tester or designer - there is something for everyone.
 
+<div style="text-align: center" class="button">
+![Call for Papers](https://www.papercall.io/fyneconf2024)
+</div>
+
 ## Location
 
 Fyne Conf 2024 will be held in Berlin, Germany as well as online for virtual attendees.
 
 ## Speakers
 
-To be confirmed - why not submit a presentation proposal?
+To be confirmed - why not [submit a presentation proposal](https://www.papercall.io/fyneconf2024)?
 
 ## Sponsorship
 
