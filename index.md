@@ -9,7 +9,7 @@ easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
 Novice to expert - coder, tester or designer - there is something for everyone.
 
-<div style="text-align: center" class="button">
+<div class="button" markdown="1">
 [Call for Papers](https://www.papercall.io/fyneconf2024)
 </div>
 
