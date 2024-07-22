@@ -2,7 +2,7 @@
 
 Fyne Conf 2024 will be our biggest ever event - to be held in Berlin, Germany and streamed online.
 
-The event will take place on 20th September 2024 in a central Berlin location still to be confirmed.
+The event will take place on 20th September 2024 at the [Axica congress centre](https://www.axica.de/), in central Berlin.
 
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
@@ -11,11 +11,18 @@ Novice to expert - coder, tester or designer - there is something for everyone.
 
 <div class="button" markdown="1">
 [Call for Papers](https://www.papercall.io/fyneconf2024)
+ &nbsp;-&nbsp; 
+[Book your Ticket](https://fyneconf2024.eventbrite.co.uk)
 </div>
 
 ## Location
 
-Fyne Conf 2024 will be held in Berlin, Germany as well as online for virtual attendees.
+Fyne Conf 2024 will be held at the Axica congress centre in Berlin, Germany as well as online for virtual attendees.
+
+The venue is situated adjacent to the Brandenburg Gate so there will be a chance for sight-seeing as well.
+Plenty of accomodation and transport links are available nearby.
+
+Access is strictly limited, so please [sign up now](https://fyneconf2024.eventbrite.co.uk) to book your space.
 
 ## Speakers
 
