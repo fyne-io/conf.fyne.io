@@ -18,6 +18,16 @@ ul li {
     list-style-image: url("/assets/img/bullet.png");
 }
 
+table {
+    background-color: transparent;
+    width: 100%;
+    margin: 16pt;
+}
+
+thead {
+    border-bottom: 1px solid #b5e853;
+}
+
 div.button a {
     color: #b5e853;
     text-align: center;

@@ -10,8 +10,6 @@ We will showcase useful techniques, best practices, new features and existing ap
 Novice to expert - coder, tester or designer - there is something for everyone.
 
 <div class="button" markdown="1">
-[Call for Papers](https://www.papercall.io/fyneconf2024)
- &nbsp;-&nbsp; 
 [Book your Ticket](https://fyneconf2024.eventbrite.co.uk)
 </div>
 
@@ -26,7 +24,13 @@ Access is strictly limited, so please [sign up now](https://fyneconf2024.eventbr
 
 ## Speakers
 
-To be confirmed - why not [submit a presentation proposal](https://www.papercall.io/fyneconf2024)?
+| Andy Williams | Renaldi Gondosubroto | TBC |
+|:---:|:---:|:---:|
+| [andydotxyz](https://twitter.com/andydotxyz) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) |  |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/renaldig.jpg" width="200" /> |  |
+
+
+**More to be announced soon**
 
 ## Sponsorship
 
