@@ -24,11 +24,15 @@ Access is strictly limited, so please [sign up now](https://fyneconf2024.eventbr
 
 ## Speakers
 
-| Andy Williams | Renaldi Gondosubroto | TBC |
+| Andy Williams | Renaldi Gondosubroto | Nicolás Palumbo |
 |:---:|:---:|:---:|
-| [andydotxyz](https://twitter.com/andydotxyz) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) |  |
-| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/renaldig.jpg" width="200" /> |  |
+| [andydotxyz](https://twitter.com/andydotxyz) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) | [npalumbo](https://www.linkedin.com/in/nicolás-palumbo-9372615/) |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/renaldig.jpg" width="200" /> | ![](/assets/img/npalumbo.jpg) |
 
+|  | Simon Dassow |  |
+|:---:|:---:|:---:|
+|  | [simondassow](https://masto.ai/@simondassow) |  |
+|  | ![](/assets/img/sdassow.jpg) |  |
 
 **More to be announced soon**
 
