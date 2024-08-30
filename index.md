@@ -29,10 +29,10 @@ Access is strictly limited, so please [sign up now](https://fyneconf2024.eventbr
 | [andydotxyz](https://twitter.com/andydotxyz) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) | [npalumbo](https://www.linkedin.com/in/nicolás-palumbo-9372615/) |
 | ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/renaldig.jpg" width="200" /> | ![](/assets/img/npalumbo.jpg) |
 
-|  | Simon Dassow |  |
+| Simon Dassow | Samy Akroun | Michelle Williams |
 |:---:|:---:|:---:|
-|  | [simondassow](https://masto.ai/@simondassow) |  |
-|  | ![](/assets/img/sdassow.jpg) |  |
+| [simondassow](https://masto.ai/@simondassow) | [samy-akroun](https://www.linkedin.com/in/samy-akroun-4111bb19a/) | [imagingmedsci](https://twitter.com/imagingmedsci) |
+| ![](/assets/img/sdassow.jpg) | <img src="/assets/img/matwachich.jpeg" width="200" /> | <img src="/assets/img/imagingmedsci.jpeg" width="200" /> |
 
 **More to be announced soon**
 
@@ -50,7 +50,7 @@ All items will be held in the Quadriga room of the Axica congress centre in cent
 | 14:00 | Nicolás P | From the idea to the Google Play Store |
 | 14:30 | | **Break** (refreshments provided) |
 | 15:00 | Simon D | DoneThat with Fyne, DDD, EventSourcing, and CQRS |
-| 15:30 | TBC | Community Showcase |
+| 15:30 | Samy A, Michelle W & others | Lightning talks & Community Showcase |
 | 16:00 | Andy W | Building the Future & Fyne AMA |
 | 16:30 | | **Social event** (drinks provided) |
 
