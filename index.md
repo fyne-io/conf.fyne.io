@@ -36,6 +36,26 @@ Access is strictly limited, so please [sign up now](https://fyneconf2024.eventbr
 
 **More to be announced soon**
 
+## Schedule - Friday 20 September 2024
+
+The schedule went as follows, with afternoon talks being live streamed, but the social and networking is for in-person attendees only.
+All items will be held in the Quadriga room of the Axica congress centre in central Berlin.
+
+
+| Start (CEST) | Speaker | Title |
+|:---:|:---|:---|
+| 12:00 | | **Lunch and registration** (sandwiches and drinks provided) |
+| 13:00 | Andy W | What's new in the Fyne Universe |
+| 13:30 | Renaldi G | Dynamic Data Visualization with Fyne and Go: Creating Interactive Dashboards |
+| 14:00 | Nicolás P | From the idea to the Google Play Store |
+| 14:30 | | **Break** (refreshments provided) |
+| 14:45 | Simon D | DoneThat with Fyne, DDD, EventSourcing, and CQRS |
+| 15:15 | TBC | Community Showcase |
+| 15:45 | Andy W | Building the Future & Fyne AMA |
+| 16:30 | | **Social event** (drinks provided) |
+
+Final details of the social events are still to be confirmed.
+
 ## Sponsorship
 
 This event is sponsored by:
