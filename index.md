@@ -49,9 +49,9 @@ All items will be held in the Quadriga room of the Axica congress centre in cent
 | 13:30 | Renaldi G | Dynamic Data Visualization with Fyne and Go: Creating Interactive Dashboards |
 | 14:00 | Nicolás P | From the idea to the Google Play Store |
 | 14:30 | | **Break** (refreshments provided) |
-| 14:45 | Simon D | DoneThat with Fyne, DDD, EventSourcing, and CQRS |
-| 15:15 | TBC | Community Showcase |
-| 15:45 | Andy W | Building the Future & Fyne AMA |
+| 15:00 | Simon D | DoneThat with Fyne, DDD, EventSourcing, and CQRS |
+| 15:30 | TBC | Community Showcase |
+| 16:00 | Andy W | Building the Future & Fyne AMA |
 | 16:30 | | **Social event** (drinks provided) |
 
 Final details of the social events are still to be confirmed.
