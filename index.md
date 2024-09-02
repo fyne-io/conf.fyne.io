@@ -27,7 +27,7 @@ Access is strictly limited, so please [sign up now](https://fyneconf2024.eventbr
 | Andy Williams | Renaldi Gondosubroto | Nicolás Palumbo |
 |:---:|:---:|:---:|
 | [andydotxyz](https://twitter.com/andydotxyz) | [renaldigondosubroto](https://www.linkedin.com/in/renaldigondosubroto/) | [npalumbo](https://www.linkedin.com/in/nicolás-palumbo-9372615/) |
-| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/renaldig.jpg" width="200" /> | ![](/assets/img/npalumbo.jpg) |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/renaldig.jpg" width="200" /> | <img src="/assets/img/npalumbo.jpg" width="200" /> |
 
 | Simon Dassow | Samy Akroun | Michelle Williams |
 |:---:|:---:|:---:|
