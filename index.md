@@ -67,7 +67,10 @@ This event is sponsored by:
 <a href="https://justrelate.com" style="text-decoration: none" alt="JustRelate" title="JustRelate"><img src="assets/img/justrelate.svg" style="margin-left: -18pt;" height="112" /></a>
 <a href="https://fynelabs.com" style="text-decoration: none" alt="Fyne Labs" title="Fyne Labs"><img src="assets/img/fynelabs.png" style="padding: 14pt 0;" width="154" /></a>
 
-We would be happy to welcome more sponsors to this event, please get in touch!
+Media Partners:
+
+<a href="https://germantechjobs.de/" style="text-decoration: none" alt="GermanTechJobs.de" title="GermanTechJobs.de"><img src="assets/img/gtj.png" height="64" style="margin: 14pt 0;" /></a>
+
 
 ## Support or Contact
 
