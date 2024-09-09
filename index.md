@@ -60,6 +60,22 @@ All items will be held in the Quadriga room of the Axica congress centre in cent
 
 Final details of the social events are still to be confirmed.
 
+### Contributor planning
+
+Before the main event we will use the space to have a discussion with project 
+contributors and others who would like to help the future of Fyne.
+
+We will direct the conversation based on attendees, but it will likely cover
+technical topics, community management or how to get started as a contributor.
+
+There is also a chance to use this time for coding or covering proposed additions to the toolkit.
+
+| Start (CEST) | Title |
+|:---:|:---|:---|
+| 9:00 | **Breakfast and arrival** (Pastries and drinks provided) |
+| 9:30 | Project discussions, contributor planning and coding session |
+
+
 ## Sponsorship
 
 This event is sponsored by:
