@@ -40,7 +40,7 @@ in the ways described on our [main website](https://fyne.io/#contact).
 
 If you are interested in previous conferences and the session recordings, you can find them in this archive:
 
-* [FyneConf 2023](/archive/2024) - Berlin
+* [FyneConf 2024](/archive/2024) - Berlin
 * [FyneConf 2023](/archive/2023) - Edinburgh
 * [FyneConf 2022](/archive/2022) - Online
 * [FyneConf 2021](/archive/2021) - Online
