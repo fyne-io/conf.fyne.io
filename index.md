@@ -3,7 +3,7 @@
 Fyne Conf 2025 is the latest opportunity to hear more about the Fyne toolkit and to meet some of the team.
 This year it will be held in Edinburgh, Scotland, UK and streamed online.
 
-The event will take place on 19th September 2024 in the University of Edinburgh [Bayes Centre](https://bayes-centre.ed.ac.uk).
+The event will take place on 19th September 2025 in the University of Edinburgh [Bayes Centre](https://bayes-centre.ed.ac.uk).
 
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
@@ -16,7 +16,7 @@ Novice to expert - coder, tester or designer - there is something for everyone.
 
 ## Location
 
-Fyne Conf 2024 will be held at the [Bayes Centre](https://bayes-centre.ed.ac.uk), part of the University of Edinburgh, in central Edinburgh, Scotland - as well as online for virtual attendees.
+Fyne Conf 2025 will be held at the [Bayes Centre](https://bayes-centre.ed.ac.uk), part of the University of Edinburgh, in central Edinburgh, Scotland - as well as online for virtual attendees.
 
 ## Speakers
 
