@@ -20,13 +20,19 @@ Fyne Conf 2025 will be held at the [Bayes Centre](https://bayes-centre.ed.ac.uk)
 
 ## Speakers
 
-To be confirmed - why not [submit a presentation proposal](https://www.papercall.io/fyneconf2025)?
+We present a selection of confirmed speakers below.
+There is still space for some more presentations - why not [submit a presentation proposal](https://www.papercall.io/fyneconf2025)?
+
+| Andy Williams | Tanguy ⧓ Herrmann | |
+|:---:|:---:|:---:|
+| [andydotxyz](https://twitter.com/andydotxyz) | [dolanor](https://github.com/dolanor) | |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/dolanor.jpg" width="200" /> | |
 
 ## Sponsorship
 
 This event is sponsored by:
 
-<a href="https://fynelabs.com" style="text-decoration: none" alt="Fyne Labs" title="Fyne Labs"><img src="assets/img/fynelabs.png" style="padding: 14pt 0;" width="154" /></a>
+<a href="https://apptrix.ai" style="text-decoration: none" alt="Apptrix.ai" title="Apptrix.ai"><img src="assets/img/apptrix.png" style="padding: 14pt 0;" width="154" /></a> (formerly Fyne Labs)
 
 We would be happy to welcome more sponsors to this event, please get in touch!
 
