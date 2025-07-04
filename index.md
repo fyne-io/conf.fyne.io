@@ -23,10 +23,10 @@ Fyne Conf 2025 will be held at the [Bayes Centre](https://bayes-centre.ed.ac.uk)
 We present a selection of confirmed speakers below.
 There is still space for some more presentations - why not [submit a presentation proposal](https://www.papercall.io/fyneconf2025)?
 
-| Andy Williams | Tanguy ⧓ Herrmann | |
+| Andy Williams | Tanguy ⧓ Herrmann | Simon Dassow |
 |:---:|:---:|:---:|
-| [andydotxyz](https://twitter.com/andydotxyz) | [dolanor](https://github.com/dolanor) | |
-| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/dolanor.jpg" width="200" /> | |
+| [andydotxyz](https://twitter.com/andydotxyz) | [dolanor](https://github.com/dolanor) | [simondassow](https://masto.ai/@simondassow) |
+| ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/dolanor.jpg" width="200" /> | ![](/assets/img/sdassow.jpg) |
 
 ## Sponsorship
 
