@@ -11,7 +11,7 @@ We will showcase useful techniques, best practices, new features and existing ap
 Novice to expert - coder, tester or designer - there is something for everyone.
 
 <div class="button" markdown="1">
-[Call for Papers](https://www.papercall.io/fyneconf2025)
+[Request content](mailto:info@fyne.io)
 </div>
 
 ## Location
@@ -21,7 +21,7 @@ Fyne Conf 2025 will be held at the [Bayes Centre](https://bayes-centre.ed.ac.uk)
 ## Speakers
 
 We present a selection of confirmed speakers below.
-There is still space for some more presentations - why not [submit a presentation proposal](https://www.papercall.io/fyneconf2025)?
+More are still to be announced - if you missed the papercall, [get in touch](mailto:info@fyne.io).
 
 | Andy Williams | Tanguy ⧓ Herrmann | Simon Dassow |
 |:---:|:---:|:---:|
