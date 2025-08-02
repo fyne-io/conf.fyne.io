@@ -28,6 +28,11 @@ More are still to be announced - if you missed the papercall, [get in touch](mai
 | [andydotxyz](https://twitter.com/andydotxyz) | [dolanor](https://github.com/dolanor) | [simondassow](https://masto.ai/@simondassow) |
 | ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/dolanor.jpg" width="200" /> | ![](/assets/img/sdassow.jpg) |
 
+|  | Alexandre E. Souza |  |
+|:---:|:---:|:---:|
+|  | [devalexandre](https://github.com/devalexandre) |  |
+|  | <img src="/assets/img/alexandre.jpg" width="200" /> |  |
+
 ## Sponsorship
 
 This event is sponsored by:
