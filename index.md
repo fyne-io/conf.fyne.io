@@ -11,7 +11,7 @@ We will showcase useful techniques, best practices, new features and existing ap
 Novice to expert - coder, tester or designer - there is something for everyone.
 
 <div class="button" markdown="1">
-[Request content](mailto:info@fyne.io)
+[Get Tickets!](https://fyneconf2025.eventbrite.co.uk)
 </div>
 
 ## Location
