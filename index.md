@@ -28,10 +28,41 @@ More are still to be announced - if you missed the papercall, [get in touch](mai
 | [andydotxyz](https://twitter.com/andydotxyz) | [dolanor](https://github.com/dolanor) | [simondassow](https://masto.ai/@simondassow) |
 | ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/dolanor.jpg" width="200" /> | ![](/assets/img/sdassow.jpg) |
 
-|  | Alexandre E. Souza |  |
+| Alexandre E. Souza | Hayden Parker | |
 |:---:|:---:|:---:|
-|  | [devalexandre](https://github.com/devalexandre) |  |
-|  | <img src="/assets/img/alexandre.jpg" width="200" /> |  |
+| [devalexandre](https://github.com/devalexandre) | [hkparker](https://github.com/hkparker) |  |
+| <img src="/assets/img/alexandre.jpg" width="200" /> | <img src="/assets/img/community.png" width="200" /> |  |
+
+## Schedule - Friday 19 September 2025
+
+In-person events are in the "Bayes Theorem" room at Bayes Centre, Edinburgh University - Bristo Square, Edinburgh.
+
+### Main conference event
+
+The afternoon schedule is proposed as follows, afternoon talks will be live streamed, with the social event being for in-person attendees only.
+
+| Start (BST) | Speaker | Title |
+|:---:|:---|:---|
+| 12:30 | | **Lunch and registration** (sandwiches and drinks provided) |
+| 13:30 | Andy W | The Go GUI ecosystem TBC |
+| 14:00 | Alexandre S | Nats UI With Fyne |
+| 14:30 | Simon D | About the Latest Fyne CLI Tool Changes |
+| 15:00 | | **Break** (refreshments provided) |
+| 15:30 | Tanguy H | A mobile app for enterprise needs |
+| 16:00 | Hayden P & more TBC | Lightning talks & Community Showcase |
+| 16:30 | Andy W | Where do we go from here? & Fyne AMA |
+| 17:00 | | **Social event** (drinks provided) |
+
+### Contributor workshop
+
+Before the main talks we are holding a contributor session that is open to current and future contributors to the Fyne project or its community. Please message one of the team or email [info@fyne.io](mailto:info@fyne.io) if you are interested in attending.
+
+
+| Start (BST) | Speaker | Title |
+|:---:|:---|:---|
+| 9:30 | | **Breakfast and introductions** (pastry and drinks provided) |
+| 10:00 | Discussion | A discussion / planning session and collaboration opportunity for Fyne contributors an supporters |
+
 
 ## Sponsorship
 
