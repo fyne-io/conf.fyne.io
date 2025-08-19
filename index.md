@@ -31,7 +31,7 @@ More are still to be announced - if you missed the papercall, [get in touch](mai
 | Alexandre E. Souza | Hayden Parker | |
 |:---:|:---:|:---:|
 | [devalexandre](https://github.com/devalexandre) | [hkparker](https://github.com/hkparker) |  |
-| <img src="/assets/img/alexandre.jpg" width="200" /> | <img src="/assets/img/community.png" width="200" /> |  |
+| <img src="/assets/img/alexandre.jpg" width="200" /> | <img src="/assets/img/hkparker.png" width="200" /> |  |
 
 ## Schedule - Friday 19 September 2025
 
