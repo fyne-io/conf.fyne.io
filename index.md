@@ -10,8 +10,8 @@ easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
 Novice to expert - coder, tester or designer - there is something for everyone.
 
-<div class="button" markdown="1">
-[Get Tickets!](https://fyneconf2025.eventbrite.co.uk)
+<div style="text-align: center">
+<a href="https://fyneconf2025.eventbrite.co.uk" class="btn btn-primary">Get Tickets!</a>
 </div>
 
 ## Location
