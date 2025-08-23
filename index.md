@@ -28,10 +28,10 @@ More are still to be announced - if you missed the papercall, [get in touch](mai
 | [andydotxyz](https://twitter.com/andydotxyz) | [dolanor](https://github.com/dolanor) | [simondassow](https://masto.ai/@simondassow) |
 | ![](/assets/img/andydotxyz.jpg) | <img src="/assets/img/dolanor.jpg" width="200" /> | ![](/assets/img/sdassow.jpg) |
 
-| Alexandre E. Souza | Hayden Parker | |
+| Alexandre E. Souza | Hayden Parker | Nova |
 |:---:|:---:|:---:|
-| [devalexandre](https://github.com/devalexandre) | [hkparker](https://github.com/hkparker) |  |
-| <img src="/assets/img/alexandre.jpg" width="200" /> | <img src="/assets/img/hkparker.png" width="200" /> |  |
+| [devalexandre](https://github.com/devalexandre) | [hkparker](https://github.com/hkparker) | [superdev.one](https://superdev.one)  |
+| <img src="/assets/img/alexandre.jpg" width="200" /> | <img src="/assets/img/hkparker.png" width="200" /> | <img src="/assets/img/community.png" width="200" /> |
 
 ## Schedule - Friday 19 September 2025
 
@@ -44,12 +44,12 @@ The afternoon schedule is proposed as follows, afternoon talks will be live stre
 | Start (BST) | Speaker | Title |
 |:---:|:---|:---|
 | 12:30 | | **Lunch and registration** (sandwiches and drinks provided) |
-| 13:30 | Andy W | The Go GUI ecosystem TBC |
+| 13:30 | Andy W | Building Better Apps, Everywhere |
 | 14:00 | Alexandre S | Nats UI With Fyne |
 | 14:30 | Simon D | About the Latest Fyne CLI Tool Changes |
 | 15:00 | | **Break** (refreshments provided) |
 | 15:30 | Tanguy H | A mobile app for enterprise needs |
-| 16:00 | Hayden P & more TBC | Lightning talks & Community Showcase |
+| 16:00 | Hayden P, Nova & more TBC | Lightning talks & Community Showcase |
 | 16:30 | Andy W | Where do we go from here? & Fyne AMA |
 | 17:00 | | **Social event** (drinks provided) |
 
@@ -88,3 +88,4 @@ If you are interested in previous conferences and the session recordings, you ca
 * [FyneConf 2021](/archive/2021) - Online
 * [FyneConf 2020](/archive/2020) - Online
 * [FyneConf 2019](/archive/2019) - Online
+ 
