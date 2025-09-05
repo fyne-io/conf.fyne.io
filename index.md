@@ -49,7 +49,7 @@ The afternoon schedule is proposed as follows, afternoon talks will be live stre
 | 14:30 | Simon D | About the Latest Fyne CLI Tool Changes |
 | 15:00 | | **Break** (refreshments provided) |
 | 15:30 | Tanguy H | A mobile app for enterprise needs |
-| 16:00 | Hayden P, Nova & more TBC | Lightning talks & Community Showcase |
+| 16:00 | Hayden P, Nova, Simon D & more TBC | Lightning talks & Community Showcase |
 | 16:30 | Andy W | Where do we go from here? & Fyne AMA |
 | 17:00 | | **Social event** (drinks provided) |
 
