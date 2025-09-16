@@ -46,7 +46,7 @@ The afternoon schedule is proposed as follows, afternoon talks will be live stre
 | 12:30 | | **Lunch and registration** (sandwiches and drinks provided) |
 | 13:30 | Andy W | Building Better Apps, Everywhere |
 | 14:00 | Alexandre S | Nats UI With Fyne |
-| 14:30 | Simon D | About the Latest Fyne CLI Tool Changes |
+| 14:15 | Simon D | About the Latest Fyne CLI Tool Changes |
 | 15:00 | | **Break** (refreshments provided) |
 | 15:30 | Tanguy H | A mobile app for enterprise needs |
 | 16:00 | Hayden P, Nova, Simon D & more TBC | Lightning talks & Community Showcase |
