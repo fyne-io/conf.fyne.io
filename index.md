@@ -41,10 +41,10 @@ The afternoon schedule was as follows, afternoon talks were live streamed, with 
 | 12:30 | | **Lunch and registration** (sandwiches and drinks provided) |
 | 13:30 | Andy W | Building Better Apps, Everywhere - [Watch](https://youtu.be/hGsp4JB3vFo), [Alternate](https://media.ccc.de/v/fyneconf2025-56433-building-better-apps), [Slides](/archive/2025/welcome.pdf) |
 | 14:00 | Alexandre S | Nats UI With Fyne - [Watch](https://youtu.be/qjsb8wO0p-8), [Alternate](https://media.ccc.de/v/fyneconf2025-56434-nats-ui-with-fyne), [Slides](/archive/2025/alexandre.pptx) |
-| 14:15 | Simon D | About the Latest Fyne CLI Tool Changes - [Watch](https://youtu.be/E4fDZtSBMpg), [Alternate](https://media.ccc.de/v/fyneconf2025-56435-about-the-latest-fyne) |
+| 14:15 | Simon D | About the Latest Fyne CLI Tool Changes - [Watch](https://youtu.be/E4fDZtSBMpg), [Alternate](https://media.ccc.de/v/fyneconf2025-56435-about-the-latest-fyne), [Slides](/archive/2025/simon.pdf) |
 | 15:00 | | **Break** (refreshments provided) |
 | 15:30 | Tanguy H | A mobile app for enterprise needs - [Watch](https://youtu.be/6ZFm9jJY8O4), [Alternate](https://media.ccc.de/v/fyneconf2025-56436-a-mobile-app-for-ente) |
-| 16:00 | Hayden P, Nova, Simon D & more TBC | Lightning talks & Community Showcase - [Watch](https://youtu.be/wFoYu7923v8), [Alternate](https://media.ccc.de/v/fyneconf2025-56437-lightning-talks-commu) |
+| 16:00 | Hayden P, Nova, Simon D & more TBC | Lightning talks & Community Showcase - [Watch](https://youtu.be/wFoYu7923v8), [Alternate](https://media.ccc.de/v/fyneconf2025-56437-lightning-talks-commu), [Slides - Simon](/archive/2025/simon-lightning.pdf) |
 | 16:30 | Andy W | Where do we go from here? & Fyne AMA - [Watch](https://youtu.be/WJeW-Q3lemM), [Alternate](https://media.ccc.de/v/fyneconf2025-56438-where-do-we-go-from-h), [Slides](/archive/2025/close.pdf) |
 | 17:00 | | **Social event** (drinks provided) |
 
