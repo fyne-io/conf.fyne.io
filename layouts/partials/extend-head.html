@@ -14,6 +14,20 @@ body {
   background: center/cover url(/img/conference_bg.jpg) fixed no-repeat;
 }
 
+html:not(.dark) body {
+  background-color: rgba(255, 255, 255, 0.45);
+  background-blend-mode: overlay;
+  color: #1a1a1a;
+}
+
+html:not(.dark) .prose {
+  color: #1a1a1a;
+}
+
+html:not(.dark) .prose a {
+  color: #1a56db;
+}
+
 .article-content {
   max-width: none !important;
 }
