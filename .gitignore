@@ -1,4 +1,6 @@
-_site/
+public/
+resources/
 .idea/
+.hugo_build.lock
 
 .DS_Store
