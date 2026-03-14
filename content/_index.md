@@ -5,7 +5,7 @@ title: "Fyne Conf"
 ## Fyne Conf 2026
 
 Fyne Conf 2026 is our second conference in mainland Europe - a great way to hear more about the Fyne toolkit and to meet some of the team.
-This year it was held in Eindhoven, Netherlands and streamed online.
+This year it is held in Eindhoven, Netherlands and streamed online.
 
 We are finalising details, but expect it to be held on 25th September 2026 in a city centre location.
 
