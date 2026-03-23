@@ -7,7 +7,9 @@ title: "Fyne Conf"
 Fyne Conf 2026 is our second conference in mainland Europe - a great way to hear more about the Fyne toolkit and to meet some of the team.
 This year it is held in Eindhoven, Netherlands and streamed online.
 
-We are finalising details, but expect it to be held on 25th September 2026 in a city centre location.
+The event will run all day of 11th September 2026 and will be hosted by the
+[Social Hub](https://www.thesocialhub.co/eindhoven/). This excellent city-center
+location is easy to get to and has accomodation nearby.
 
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
@@ -16,7 +18,7 @@ Novice to expert - coder, tester or designer - there is something for everyone.
 
 ## Location
 
-TBC Central Eindhoven.
+The Social Hub, Eindhoven.
 
 ## Speakers
 
