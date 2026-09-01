@@ -13,8 +13,6 @@ location is easy to get to and has accomodation nearby.
 
 <a href="https://www.tickettailor.com/events/fyneio/2248279" class="btn">Get Your Ticket!</a>
 
-[Submit your talk proposal now!](https://sessionize.com/fyneconf2026/)
-
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
 We will showcase useful techniques, best practices, new features and existing applications from around the community.
@@ -26,7 +24,7 @@ Fyne Conf 2026 will be held at The Social Hub in Eindhoven, Netherlands - as wel
 
 ## Speakers
 
-We are delighted to announce our first speakers, with more to be confirmed - [submit your talk proposal now!](https://sessionize.com/fyneconf2026/)
+We are delighted to announce our speaker speaker lineup - check out the celebrities of the Go world!
 
 <div class="speaker">
   <img src="/img/andydotxyz.jpg" alt="Andrew Williams" class="nozoom" />
